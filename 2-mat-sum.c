@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 	int m1[2][2],m2[2][2],sum[2][2];
 	int i,j;
@@ -31,4 +31,5 @@ void main()
 			}
 		printf("\n");
 	 	}
+	return 0;
  }
